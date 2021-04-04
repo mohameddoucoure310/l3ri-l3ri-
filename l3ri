@@ -1,0 +1,7 @@
+echo "# l3ri-l3ri-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohameddoucoure310/l3ri-l3ri-.git
+git push -u origin main
